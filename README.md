@@ -1,4 +1,9 @@
 # Netflix
+
+![Screenshot 2024-09-13 103644](https://github.com/user-attachments/assets/65b38ef5-c961-40b5-b087-f596227ebdc4)
+
+
+
  "Unlock insights into Netflix's content with this interactive dashboard! Dive into IMDb ratings, show durations, and awards received from 2015 to 2021. Discover trends across languages, explore how content evolves over time, and see which shows are making waves. Perfect for data enthusiasts looking to explore the world of entertainment through visuals!"
 
 **Dashboard Overview:**
