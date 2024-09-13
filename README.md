@@ -57,3 +57,14 @@ A combined line and area chart displays the IMDb score trend alongside awards re
  ***IMDb Score and Awards by Year:***
  
 A cumulative graph at the bottom of the dashboard further solidifies that 2019 and 2020 were the standout years in terms of awards and IMDb scores, reflecting a significant boost in Netflix's content quality during these years.
+
+
+***Key Takeaways:***
+
+English-language content is dominating in terms of IMDb scores, but other languages are gaining traction.
+
+2019-2020 were the golden years for Netflix, marked by high IMDb scores and a large number of awards, especially for series.
+
+Content duration diversity reflects Netflix's effort to cater to various viewer needs, offering everything from short episodes to long movies.
+
+Awards received by series are outpacing those for movies, indicating a shift in viewer preference and Netflix's content focus toward series.
