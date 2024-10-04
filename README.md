@@ -1,4 +1,3 @@
-Here's a detailed README file for your Netflix project. Feel free to modify any sections to better suit your needs!
 
 ---
 
@@ -103,5 +102,3 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - [IMDb](https://www.imdb.com/) for rating information.
 
 ---
-
-This README provides an engaging overview of your project while giving potential users the necessary details to understand its features and how to get started.
